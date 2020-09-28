@@ -35,5 +35,5 @@ function madLibTwo() {
 
   const storyTwo = `Today we took a ${adjOne} fieldtrip to ${placeTwo}. They're famous for making ${pluralNoun} and for cooking ${adjTwo} ${PluralFood}. Eating all that food made me feel ${emotion}. Next we enjoyed the local tradition of ${verbOne} in the middle of the ${placeOne}! Finally, we went shopping for souvenirs. I bought a ${adjThree} ${nounOne} for myself, and a ${adjFour} ${anotherNoun} for my favorite ${familyMember}. I'll definitely never forget this ${adjFive} trip!`;
 
-  document.querySelector(".story").innerHTML = storyOne;
+  document.querySelector(".story").innerHTML = storyTwo;
 }
